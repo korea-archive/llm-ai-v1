@@ -1,11 +1,9 @@
 #
 ## LLM 모델(EXAONE-3.5)를 활용한 온 디바이스 앱 개발
 
-<div align="center">
-    <span style="font-size: 28pt">
-  목 차
-    </span>
-</div>
+
+### 목 차
+
 
 ### **1장. 안드로이드 앱 개발 도구 및 버전**
 
